@@ -13,3 +13,6 @@ Import the DataBase file into the [phpMyAdmin] database
 Zmień Zmienne dotyczące funkcji mail() //Odbiorca.
 Zmień Dane do łączenia się z bazą danych
 Zaimportuj plik DataBase do bazy danych [phpMyAdmin]
+
+
+![image](https://user-images.githubusercontent.com/60610578/116785199-8c44c480-aa98-11eb-8372-3eb825af8434.png)
